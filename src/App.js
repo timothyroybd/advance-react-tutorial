@@ -1,10 +1,6 @@
-import React from "react";
-function App() {
-  return (
-    <div className="container">
-      <h2>Advanced React Tutorial</h2>
-    </div>
-  );
-}
+import React, { useState } from "react";
+import Setup from "./tutorial/1-useState/setup/3-useState-array";
+
+function App() {}
 
 export default App;
